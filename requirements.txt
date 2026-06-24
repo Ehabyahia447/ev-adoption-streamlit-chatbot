@@ -4,10 +4,5 @@ numpy
 joblib==1.4.2
 scikit-learn==1.6.1
 imbalanced-learn==0.13.0
-xgboost
-catboost
-lightgbm
-datasist
-plotly
 requests
 pydantic
